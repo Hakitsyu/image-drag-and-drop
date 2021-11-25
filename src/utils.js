@@ -1,0 +1,1 @@
+export const changeCursor = (element, cursor) => element.style.cursor = cursor;
